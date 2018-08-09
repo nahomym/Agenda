@@ -1,0 +1,5 @@
+C:\POO\Nahomy C#\AgendaDeContactos.cs\AgendaDeContactos.cs\obj\x86\Debug\AgendaDeContactos.cs.csprojResolveAssemblyReference.cache
+C:\POO\Nahomy C#\AgendaDeContactos.cs\AgendaDeContactos.cs\bin\Debug\AgendaDeContactos.cs.exe
+C:\POO\Nahomy C#\AgendaDeContactos.cs\AgendaDeContactos.cs\bin\Debug\AgendaDeContactos.cs.pdb
+C:\POO\Nahomy C#\AgendaDeContactos.cs\AgendaDeContactos.cs\obj\x86\Debug\AgendaDeContactos.cs.exe
+C:\POO\Nahomy C#\AgendaDeContactos.cs\AgendaDeContactos.cs\obj\x86\Debug\AgendaDeContactos.cs.pdb
